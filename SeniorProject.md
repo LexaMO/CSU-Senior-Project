@@ -42,8 +42,10 @@ auto white balance, stickers, etc.
 Personal Motivation:
 --------------------
 
-This project will further the student's knowledge by allowing them to do expand
-their skills in a language they know by learning new techniques and concepts 
+Since we live in the generation where many people take photos and edit them, 
+this product is something that I can utitilize and that my friends or anyone 
+can use. Also, this project will further my knowledge by allowing me to expand 
+my skills in a language that I know by learning new techniques and concepts 
 outside of their current capabilities and expertise
 
 Future Research:
