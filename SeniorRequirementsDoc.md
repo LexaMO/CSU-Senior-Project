@@ -25,7 +25,7 @@ Requirement #: 2
 
 **c.	Rationale:** To have an appealing application that entices new users to use the product
 
-**d.	Fit Criterion:** After first encounter with product, the user should have enjoyed using the product and feel comfortable using it again.
+**d.	Fit Criterion:** After first encounter with product, the user should be given a surveyasking them to rate the enjoyability on a Likert scale of 1 to 5 where 5 is most enjoyable. The project should have an average rating above 4.
 
 **e.	Priority:** 3
 
@@ -39,7 +39,7 @@ Requirement #: 3
 
 **c.	Rationale:** to be able to easily navigate through the editing options 
 
-**d.	Fit Criterion:** After first encounter with the product, the customer should be able to easily navigate and choose between the different options to edit their image.
+**d.	Fit Criterion:** After first encounter with the product, the customer should be given a survey to rate their experience navigating through the application on a Likert scale of 1 to 5 where 5 is easily navigatable. The project should have an average rating above 4.
 
 **e.	Priority:** 3
 
@@ -177,7 +177,7 @@ Requirement #: 13
 
 **b.	Description:**  The product should be fairly easy to use by anyone ages 11 and up with little to no training.
 
-**c.	Rationale:**
+**c.	Rationale:** To have a universably usable product
 
 **d.	Fit Criterion:** One week’s use of the product should result in a total error rate of less than one percent.
 
@@ -207,7 +207,7 @@ Requirement #: 15
 
 **c.	Rationale:** to have a reputable product that users feel confident using. 
 
-**d.	Fit Criterion:** all users shall be aware of how the application is operating with their data
+**d.	Fit Criterion:** all users shall be aware of how the application is operating with their data. Participants will be given a survey asking them if they were informed by the application how their data was used. A minimum of 70% of the survey participants should answer yes
 
 **e.	Priority:** 1
 
@@ -235,7 +235,7 @@ Requirement #: 17
 
 **c.	Rationale:** to have a completely accessible product without needing wi-fi
 
-**d.	Fit Criterion:** The user should be able to access the application when they are not connected to the internet
+**d.	Fit Criterion:** The user should bevgiven a survey asking them to rate the ease of accesability on a Likert scale of 1 to 5 where 5 is easily accessibly. The project should have an average rating above 4.
 
 **e.	Priority:** 8
 
@@ -263,7 +263,7 @@ Requirement #: 19
 
 **c.	Rationale:** to have a product that is easy to use and understand
 
-**d.	Fit Criterion:** The user should be able to easily read and understand the words and phrases in the application
+**d.	Fit Criterion:** The user should be given a survey asking them to rate the understandability on a Likert scale of 1 to 5 where 5 is easily understandable. The project should have an average rating above 4.
 
 **e.	Priority:** 1
 
