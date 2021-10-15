@@ -38,7 +38,7 @@ Item Pass/Fail Criteria:
 Criteria to conclude pass/fail of testing will be the functioning features of the program.
 Test Deliverables:
 -------------------
-- Test Plan: 
+- Test Plan: https://github.com/LexaMO/CSU-Senior-Project/blob/master/TestPlan.md
 - Test Cases: not available yet
 - Test Scripts: not available yet
 - Test Reports: not available yet
