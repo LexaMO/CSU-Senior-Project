@@ -31,10 +31,11 @@ Features not to be tested:
 
 Approach:
 --------
-Approach to testing includes trial by error and experimental coding to learn more about software and complete research referred to in Senior Project Proposal
+Approach to testing includes trial by error and experimental coding to learn more about software and complete research referred to in Senior Project Proposal.
 
 Item Pass/Fail Criteria:
 -----------------------
+Criteria to conclude pass/fail of testing will be the functioning features of the program.
 Test Deliverables:
 -------------------
 - Test Plan: 
@@ -53,4 +54,13 @@ No known estimations
 
 Schedule:
 ---------
-Anticipated schedule estimates a gradual progress of editing functions
+Anticipated schedule estimates a gradual progress of adding editing functions into the scope of capabilities. The schedule includes an anticipated growth of adding or working on a new feature every week.
+
+Assumptions/Dependencies:
+-------------------------
+- assumptions: development of project will go as planned ending with a finalized project with every feature that was hoped to be incorporated.
+- dependencies: software functionality and cooperation, amount of prior research, and progress of project.
+
+Approval:
+-----------
+Dr. Hayes 
