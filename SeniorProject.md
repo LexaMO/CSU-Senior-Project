@@ -78,11 +78,11 @@ Future Research:
 | Create test plan                                                                                   | 08/23/2021     | 09/03/2021   | 11 days      |
 | Complete further research on QT IDE usage, tools, and packages before development starts           | 08/23/2021     | 08/30/2021   | 7 days       |
 | 2) Start Development:                                                                              |                |              |              |
-| Complete basic front-end model of project                                                          | 09/01/2021     | 09/15/2021   | 15 days      |
-| Implement test plan                                                                                | 09/15/2021     | 10/08/2021   | 23 days      |
-| Incorporate events into the project with minimal features such as crop, custom resize, and preview | 09/15/2021     | 10/08/2021   | 23 days      |
-| Complete test plan                                                                                 | 10/08/2021     | 11/12/2021   | 36 days      |
-| Add more features such as color filters, effects, auto white balance, etc.                         | 10/08/2021     | 11/12/2021   | 36 days      |
+| Complete basic front-end model of project                                                          | 10/01/2021     | 10/30/2021   | 29 days      |
+| Implement test plan                                                                                | 10/08/2021     | 11/08/2021   | 30 days      |
+| Incorporate events into the project with minimal features such as crop, custom resize, and preview | 10/08/2021     | 11/08/2021   | 30 days      |
+| Complete test plan                                                                                 | 10/20/2021     | 11/22/2021   | 32 days      |
+| Add more features such as color filters, effects, auto white balance, etc.                         | 10/20/2021     | 11/22/2021   | 32 days      |
 | Adding additional features to project                                                              | 11/15/2021     | 12/10/2021   | 25 days      |
 | Defense:                                                                                           |                |              |              |
 | Complete Final Report                                                                              | 01/10/2022     | 02/11/2022   | 32 days      |
