@@ -19,6 +19,7 @@ Test Items:
 -----------
 - QT Creator
 - test and tutorial files used to learn software
+- randomly selected images from the internet
 
 Features to be tested:
 -----------------------
