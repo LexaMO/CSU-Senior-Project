@@ -5,33 +5,45 @@ Lexa Mosby
 
 Introduction:
 -------------
-- Overview: This test plan encapsulates the synopsis of progress of c++ program on QT Creator creating a bulk image manipulation tool.
-- goal: to outline the progress of current stage in senior project
+- Overview: This test plan is designed to evaluate the ease and efficiency of the program for all users.
+- goals:
+  1. to identify the time it takes to edit a single image.
+  2. to identify the time it takes to edit multiple images simultaneously.
+  3. to identify the ease of use with the program throughout various age groups.
 
 References:
 -----------
 Project Plan: https://github.com/LexaMO/CSU-Senior-Project/blob/master/SeniorProject.md
 
-Test Items:
+Test Items: 
 -----------
 - QT Creator
 - test and tutorial files used to learn software
 
 Features to be tested:
 -----------------------
-- individual files with practice programs for research
+- ease and usability of program
 - actual functions of program:
-  - physical appearance and neatness
-  - basic usability and ease of performance
+  - uploading a photo from files
+  - zoom in/out
+  - crop
+  - editing multiple pictures at a time
+  - color filter
+  - save and download edited photo
+  - undo and redo changes made to a photo
+  - see a before and after of edited image
 
 Features not to be tested:
 --------------------------
 - more complex functions of program:
-  - editing functions that require more work (waiting until more basic features of programs are completed)
+  - white balance 
+  - adding visual effects
+  - adding a watermark
+  
 
 Approach:
 --------
-Approach to testing includes trial by error and experimental coding to learn more about software and complete research referred to in Senior Project Proposal.
+Approach to testing includes sessions of having people from different age groups try to use program and efficiently be able to edit multiple images testing every function
 
 Item Pass/Fail Criteria:
 -----------------------
@@ -45,8 +57,7 @@ Test Deliverables:
 
 Test Environment:
 -----------------
-- QT Creator
-- network
+- QT Creator program
 
 Estimate:
 ---------
