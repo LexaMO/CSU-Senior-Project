@@ -66,7 +66,17 @@ No known estimations
 
 Schedule:
 ---------
-Anticipated schedule estimates a gradual progress of adding editing functions into the scope of capabilities. The schedule includes an anticipated growth of adding or working on a new feature every week.
+- schedule for project implementation:
+  - Pilot tests: 2/14/2022 - 2/21/2022
+  - Usability testing with test subjects: 2/21/2022 - 3/07/2022
+  - Data analysis completed: 3/28/2022
+
+- schedule for testing and data collection:
+  -  Orientation and introduction: 5 min
+  -  Demographic Questionare:  5 min
+  -  Actual testing: 10-15 min
+  -  Post-testing Usability Survey: 5 min
+  -  Total: 25- 30 min
 
 Assumptions/Dependencies:
 -------------------------
