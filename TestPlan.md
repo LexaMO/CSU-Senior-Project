@@ -28,7 +28,6 @@ Features to be tested:
   - uploading a photo from files
   - zoom in/out
   - crop
-  - editing multiple pictures at a time
   - color filter
   - save and download edited photo
   - undo and redo changes made to a photo
@@ -40,6 +39,7 @@ Features not to be tested:
   - white balance 
   - adding visual effects
   - adding a watermark
+  - editing multiple pictures at a time
   
 
 Approach:
@@ -48,7 +48,15 @@ Approach to testing includes sessions of having people from different age groups
 
 Item Pass/Fail Criteria:
 -----------------------
-Criteria to conclude pass/fail of testing will be the functioning features of the program.
+ - Subject can:
+   - successfully upload picture from files
+   - successfully crop image after entering desired dimensions
+   - zoom in and out of image 
+   - successfully apply color filter on image 
+   - undo and redo changes to image 
+   - see a before and after of image
+   - save edited changes to image
+
 Test Deliverables:
 -------------------
 - Test Plan: https://github.com/LexaMO/CSU-Senior-Project/blob/master/TestPlan.md
