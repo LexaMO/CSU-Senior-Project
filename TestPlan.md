@@ -46,7 +46,7 @@ Approach:
 --------
 Approach to testing includes sessions of having people from different age groups try to use program and efficiently be able to edit multiple images testing every function
 
-Item Pass/Fail Criteria:
+Item Pass/Fail Criteria: **
 -----------------------
  - Subject can:
    - successfully upload picture from files
@@ -57,20 +57,14 @@ Item Pass/Fail Criteria:
    - see a before and after of image
    - save edited changes to image
 
-Test Deliverables:
+Test Deliverables: **
 -------------------
 - Test Plan: https://github.com/LexaMO/CSU-Senior-Project/blob/master/TestPlan.md
-- Test Cases: not available yet
 - Test Scripts: not available yet
-- Test Reports: not available yet
 
 Test Environment:
 -----------------
-- QT Creator program
-
-Estimate:
----------
-No known estimations
+- Manual Testing in non-formal environment using QT Creator program
 
 Schedule:
 ---------
@@ -86,10 +80,10 @@ Schedule:
   -  Post-testing Usability Survey: 5 min
   -  Total: 25- 30 min
 
-Assumptions/Dependencies:
+Assumptions/Dependencies: **
 -------------------------
 - assumptions: development of project will go as planned ending with a finalized project with every feature that was hoped to be incorporated.
-- dependencies: software functionality and cooperation, amount of prior research, and progress of project.
+- dependencies: software functionality and cooperation.
 
 Approval:
 -----------
