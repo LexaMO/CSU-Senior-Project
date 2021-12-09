@@ -60,7 +60,7 @@ Item Pass/Fail Criteria: **
 Test Deliverables: **
 -------------------
 - Test Plan: https://github.com/LexaMO/CSU-Senior-Project/blob/master/TestPlan.md
-- Test Scripts: not available yet
+- Test Scripts: https://github.com/LexaMO/CSU-Senior-Project/blob/master/TestScript.md
 
 Test Environment:
 -----------------
