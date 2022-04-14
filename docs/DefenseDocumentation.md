@@ -34,38 +34,26 @@ I used C++ within the QTCreator IDE on my own personal computer.
 
 ## Project Implementation Description & Explanation  
 - [Click here for the link source code repository ](/src)
+- [Click here for a description of the design and features with reference images](/docs/Project_Implementation_Description_&_Explanation.md)
 
 
 ## Test Plan
 - [Click here for the link to the Test Plan Document ](/Test/TestPlan.md)
 
-
 ## Test Results
+- *Coming soon to a theater near you*
 
 ## Challenges Overcome
+I mostly struggled with finding documentation to meet my specific needs for this project. That and getting familiarized with the QtCreator IDE in the first place.
 
 ## Future Enhancements
+In the future, I would like to advance the interface by adding a drop down menu to remove or add the different function tabs from view. I would also like to add more advanced editing feature such as an undo button, and white balance for the images. 
 
 ## Defense Presentation 
 - [Click here for the link to the Defense Presentation Slides](/docs/SeniorRequirementsDoc.md)
 
 
-### The defense documentation shall include the following chapters.
 
-0.  At the beginning, include the project title and date followed by the student's name, major, degree, project advisor.
-1.  Statement of Purpose (with the Problem Statement)
-2.  Research & Background
-3.  Project Language(s), Software, and Hardware
-4.  Project Requirements
-5.  Project Implementation Description & Explanation  
-    *This section details the design and features of the in paragraph form with references to the following:*
-    -  screenshots with numbered captions (e.g., *Fig 1. The loading screen.*)
-    -  a link to the source code repository
-6.  Test Plan
-7.  Test Results
-8.  Challenges Overcome
-9.  Future Enhancements
-10.  Defense Presentation Slides
 
 
 
