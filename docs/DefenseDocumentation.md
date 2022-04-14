@@ -47,7 +47,7 @@ I used C++ within the QTCreator IDE on my own personal computer.
 I mostly struggled with finding documentation to meet my specific needs for this project. That and getting familiarized with the QtCreator IDE in the first place.
 
 ## Future Enhancements
-In the future, I would like to advance the interface by adding a drop down menu to remove or add the different function tabs from view. I would also like to add more advanced editing feature such as an undo button, and white balance for the images. 
+In the future, I would like to advance the interface by adding a drop down menu to remove or add the different function tabs from view. I would also like to add more advanced editing feature such as an undo button, and white balance for the images. I would also like to add a feature to view the before and after to access the changes and differences.
 
 ## Defense Presentation 
 - [Click here for the link to the Defense Presentation Slides](/docs/SeniorRequirementsDoc.md)
