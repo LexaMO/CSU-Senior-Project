@@ -84,3 +84,22 @@ Project Implementation Description & Explanation
 ![ratio](/media/4.3Ratio.png)
 ##### *(Fig 18.) changing the size dimensions of the image by choosing the 2:1 ratio*
 
+#### We can also change other image properties by choosing one of the editing functions below the opacity slider. We can add an auto blur edit (Figure 19), auto colorize edit (Figure 20), and/or flip the image backwards (Figure 21).
+
+![edit](/media/BlurFunction.png)
+##### *(Fig 19.) Adding a blur filter over the image*
+
+![edit](/media/ColorizeFunction.png)
+##### *(Fig 20.) adding a colorize filter over the image*
+
+![edit](/media/FlipImage.png)
+##### *(Fig 21.) flipping the image backwards*
+
+#### Lastly we can save our changes to the image by hovering the mouse over the "File" drop down menu in the top left hand corner, and clicking "Save As" (Figure 22).
+#### Then we can save the image to the files and find the image with the saved changes in our files.
+
+![savedImage](/media/SaveAs.png)
+##### *(Fig 22.) Clicking "Save As" under the "File" drop down menu*
+
+![savedImage](/media/ImageSaved.png)
+##### *(Fig 23.) viewing the successfully saved image in file explorer*
