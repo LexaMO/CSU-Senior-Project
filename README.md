@@ -1,4 +1,5 @@
-# CSCI 499 CSU-Senior-Project
+CSCI 499 CSU-Senior-Project
+===========================
 
 ### Project Title: QtCreator Photo Image Editor
 
@@ -9,3 +10,8 @@
 ### Major: Computer Science
 
 ### Advisor: Dr. Sean Hayes
+
+How to Run
+=====
+
+Download QtCreator IDE, and download source code. Select Build to run program.
