@@ -50,8 +50,8 @@ I mostly struggled with finding documentation to meet my specific needs for this
 In the future, I would like to advance the interface by adding a drop down menu to remove or add the different function tabs from view. I would also like to add more advanced editing feature such as an undo button, and white balance for the images. I would also like to add a feature to view the before and after to access the changes and differences.
 
 ## Defense Presentation 
-- [Click here to view the Defense Presentation Slides](/docs/Senior_Project_Defense.pdf)
-- [Click here to download the presentation](/docs/Senior_Project_Defense.pptx)
+- [Click here to view the Defense Presentation Slides](/docs/Senior_Project_Defense_Presentation.pdf)
+- [Click here to download the presentation](/docs/Senior_Project_Defense_Presentation.pptx)
 
 
 
