@@ -1,6 +1,6 @@
 # CSCI 499 CSU-Senior-Project
 
-### Project Title: QTCreator Photo Image Editor
+### Project Title: QtCreator Photo Image Editor
 
 ### Date: April 20, 2022
 
