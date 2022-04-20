@@ -15,6 +15,7 @@ Test Subject Age:  13
 - Save the image - Pass
 
 Response: easy for everyday use
+
 Feedback: Suggested a feature to add words to make memes
 
 ## Test 2:
@@ -29,6 +30,7 @@ Test Subject Age:  25
 - Save the image - Pass
 
 Response: simple interface
+
 Feedback: suggested adding more editing abilities
 
 ## Test 3:
@@ -43,6 +45,7 @@ Test Subject Age:  57
 - Save the image - Pass
 
 Response: easy enough to figure out 
+
 Feedback: suggested adding directions for changing the tabs, said otherwise people may not know about the window manipulation capabilities
 
 ## Test 4:
@@ -57,6 +60,7 @@ Test Subject Age:  43
 - Save the image - Pass
 
 Response: nice program
+
 Feedback: N/A
 
 
