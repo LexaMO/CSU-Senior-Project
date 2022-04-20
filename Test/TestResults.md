@@ -1,5 +1,7 @@
 Listed below is the results and responses of test subjects that were directed through the application with the test script:
 
+[Click here to access Test Script](/Test/TestScript.md)
+
 
 ## Test 1:
 
